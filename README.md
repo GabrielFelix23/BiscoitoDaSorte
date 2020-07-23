@@ -1,2 +1,2 @@
 # BiscoitoDaSorte
- Projeto Biscoito da sorte com React Native
+ Prejeto Biscoito da sorte com React Native.
